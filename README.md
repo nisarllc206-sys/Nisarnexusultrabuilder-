@@ -1,2 +1,2 @@
 
-https://nesuxultraplatforms.slack.com/gdrive/callbacks/oauth-admin?
+https://nexusultraplatforms.slack.com/gdrive/callbacks/oauth-admin
